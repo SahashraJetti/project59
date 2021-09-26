@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+}
+
+#img {
+    width: 175px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
